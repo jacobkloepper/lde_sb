@@ -3,7 +3,6 @@
 
 int main()
 {
-    auto b = common::a;
-    std::cout << b << std::endl;
+    std::cout << "hello" << std::endl;
     return 0;
 }

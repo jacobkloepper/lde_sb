@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/kloep/dev/test/pfl/bin/app",
-  "command": "/usr/bin/c++  -I/home/kloep/dev/test/pfl/app/inc -std=gnu++20 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/kloep/dev/test/pfl/app/src/main.cpp",
-  "file": "/home/kloep/dev/test/pfl/app/src/main.cpp",
-  "output": "app/CMakeFiles/app.dir/src/main.cpp.o"
-}
-]
